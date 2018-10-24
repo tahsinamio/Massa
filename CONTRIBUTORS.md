@@ -1,8 +1,8 @@
-CONTRIBUTORS
-============
+# CONTRIBUTORS
 
- - Milindu Sanoj Kumarage (agentmilindu)
- - Moses Paul R (iammosespaulr)
- - Bhathiya Perera (JaDogg)
- - Tharindu Ranathunga (tharindupr)
- - Malith Senavirathne 
+- Milindu Sanoj Kumarage (agentmilindu)
+- Moses Paul R (iammosespaulr)
+- Bhathiya Perera (JaDogg)
+- Tharindu Ranathunga (tharindupr)
+- Malith Senavirathne
+- Tahsin Amio (tahsinamio)
